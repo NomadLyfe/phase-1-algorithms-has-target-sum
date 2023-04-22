@@ -8,7 +8,7 @@ function hasTargetSum(array, target) {
 }
 
 /* 
-  O(n log n)
+  O(n**2)
 */
 
 /* 
